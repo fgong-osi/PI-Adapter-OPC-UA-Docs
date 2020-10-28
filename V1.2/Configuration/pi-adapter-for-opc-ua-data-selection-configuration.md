@@ -26,7 +26,7 @@ Complete the following steps to generate a default data selection file:
   
    The following are example locations of the file created. In this example, it is assumed that the ComponentId of the OPC UA component is OpcUa1:
 
-   Windows: *%programdata%\OSIsoft\Adapters\OpcUa\OpcUa\Configuration\OpcUa1_DataSelection.json*
+   Windows: *%programdata%\OSIsoft\Adapters\OpcUa\Configuration\OpcUa1_DataSelection.json*
   
    Linux: */usr/share/OSIsoft/Adapters/OpcUa/OpcUa/Configuration/OpcUa1_DataSelection.json*
 
